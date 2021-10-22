@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828276513354",
+    "project_id": "project09-d80ae",
+    "storage_bucket": "project09-d80ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828276513354:android:2f58341ed09a245351e4b3",
+        "android_client_info": {
+          "package_name": "com.doctune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828276513354-cij803vfo86ejmkk74ppu29dt31jf700.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-vVDXnJVWNBngVwHyA3SeVpccXDGyuk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828276513354-cij803vfo86ejmkk74ppu29dt31jf700.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
